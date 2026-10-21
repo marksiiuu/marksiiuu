@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Floyd Viernes</h1>
-<h3 align="center">A 2nd Year student at the University of Mindanao.</h3>
+<h3 align="center">A 3rd Year student at the University of Mindanao.</h3>
 
 - 🔭 I’m currently working on **Personal Projects**
 
